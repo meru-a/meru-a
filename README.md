@@ -5,7 +5,7 @@ I graduated with a Bachelor's degree in Computer Science in 2018 and with a Mast
 I am currently participating in a batch at the [Recurse Center](https://www.recurse.com/)!
 
 - 🌱 Currently learning: TypeScript (React, Next.js, Three.js) and Python (PySide6, Qt)
-- 🔨 Currently working on: [dashcel](https://github.com/pearlescence-m/dashcel) - a desktop cross-platform application for converting Excel files to Python dashboards
+- 🔨 Currently working on: [dashcel](https://github.com/pearlescence-m/dashcel) - a cross-platform desktop application for automatic Excel-to-Python dashboard conversion
 - 💬 Let's talk about web dev, 3D shaders, desktop apps, ML and all of the awesome modern things!
 - ⚡ Fun fact: a superpower I wish I had is elemental manipulation and telepathy is a superpower I'd hate to have
 
